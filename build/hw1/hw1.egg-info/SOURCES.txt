@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+hw1/__init__.py
+hw1/circle.py
+hw1/diamond.py
+hw1/random.py
+hw1/rectangle.py
+hw1.egg-info/PKG-INFO
+hw1.egg-info/SOURCES.txt
+hw1.egg-info/dependency_links.txt
+hw1.egg-info/entry_points.txt
+hw1.egg-info/requires.txt
+hw1.egg-info/top_level.txt
+hw1.egg-info/zip-safe
+resource/hw1

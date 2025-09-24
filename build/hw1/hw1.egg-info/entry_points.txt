@@ -1,0 +1,5 @@
+[console_scripts]
+circle = hw1.circle:main
+diamond = hw1.diamond:main
+random = hw1.random:main
+rectangle = hw1.rectangle:main
